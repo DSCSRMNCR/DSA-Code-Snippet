@@ -8,7 +8,7 @@ This repository is for adding codes of data structures and algorithms, leetCode,
 
 # For beginners
 - If this is your first time creating a Pull Request - go through the next section to know how to create one.
-- If you feel you don't have any cool snippets of code, don't worry! You can pick up one of the issues, solve them in your preferred language and add that code in a Markdown file inside the challenges folder according to the contributing guidelines.
+- If you feel you don't have any code, don't worry! You can pick up one of the issues, solve them in your preferred language and add that code in a Markdown file inside the respective folder according to the contributing guidelines.
 
 # Creating a pull request
 1. Fork and Star this repository
