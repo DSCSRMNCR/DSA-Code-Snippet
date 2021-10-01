@@ -63,3 +63,15 @@ int main() {
 
     return 0;
 }
+
+Sample Input_1:
+3
+Sample Outpul_1:
+2
+
+Sample Input_2:
+7
+Sample Outpul_2:
+13
+
+Contributed by kartik633
