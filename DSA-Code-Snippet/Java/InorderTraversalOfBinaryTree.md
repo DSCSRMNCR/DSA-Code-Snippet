@@ -1,17 +1,12 @@
 # Inorder Traversal of Binary Tree
-
 ## Explaination
-
-
 > Uses of Inorder   In case of binary search trees (BST), Inorder traversal gives nodes in non-decreasing order. To get nodes of BST in non-increasing order, a variation of Inorder traversal where Inorder traversal  reversed can be used.  
->  Example: Inorder traversal for the above-given figure is 4 2 5 1 3.
+>  Example: Inorder traversal for the given tree in code is 4 2 5 1 3.
 > ### Algorithm for Inorder traversal
    >1. Traverse the left subtree, i.e., call Inorder(left-subtree)
    >2. Visit the root.
    >3. Traverse the right subtree, i.e., call Inorder(right-subtree)
-
 ## Code
-
 ```java  
 class Node {
 	int key;
@@ -21,7 +16,6 @@ class Node {
 		left = right = null;
 	}
 }
-  
 class BinaryTree {
 	// Root of Binary Tree
 	Node root;
@@ -57,17 +51,12 @@ class BinaryTree {
    }
 }
 ```
-
 ## Output
-
 ```console
 Inorder traversal of binary tree is: 
 4 2 5 1 3 
 ```
-
 ## Contributed By
 | Name | GitHub username | Institute |
 |--|--|--|
 | Abhinav Rajput | [AbhinavRajputEXE](https://github.com/AbhinavRajputEXE) | SRM, NCR campus, Modinagar |
-
-
