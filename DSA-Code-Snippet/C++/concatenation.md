@@ -1,12 +1,8 @@
 ## Question
 
 Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] for 0 <= i < n (0-indexed).
-
 Specifically, ans is the concatenation of two nums arrays.
-
 Return the array ans.
-
-
 
 ## Example:
 ~~~~~~~~~~~~
@@ -19,7 +15,6 @@ ans = [1,2,1,1,2,1]
 ~~~~~~~~~~~~
 
 ## Code
-
 ~~~~~~~~~~~~
 # include<bits/stdc++.h>
 using namespace std;
@@ -86,3 +81,6 @@ int main()
 }
 ~~~~~~~~~~~~
 
+## Contributed By
+| Name | GitHub username | Institute |
+| Dipti Agarwal | [Dipti821](https://github.com/Dipti821) | NIT Jamshedpur |
