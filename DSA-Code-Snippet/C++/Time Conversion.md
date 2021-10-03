@@ -1,5 +1,5 @@
 
-## Problem Link - (https://www.hackerrank.com/challenges/time-conversion/problem)
+### Problem Link - (https://www.hackerrank.com/challenges/time-conversion/problem)
 
 # Time Conversion C++ Solution
 
